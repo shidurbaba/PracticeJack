@@ -9,4 +9,5 @@ public class ClassPractice {
         this.var4 = input4;
         this.var5 = input5;
     }
+    //add more methods
 }
